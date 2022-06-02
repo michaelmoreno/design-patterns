@@ -1,0 +1,14 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Examples and analyis of various software design patterns",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Moreno",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.8.0"
+  }
+}
